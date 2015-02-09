@@ -1,3 +1,3 @@
 user_pip_packages:
-  - name: bugwarrior
-  - name: jira
+  - name: ansible
+  - name: ipdb
