@@ -1,0 +1,7 @@
+---
+db_name: # Database name goes here 
+db_user: # username for database goes here
+db_pass: # password for database goes here 
+postgresql_packages:
+  - name: postgresql
+  - name: postgresql-server-dev-9.1

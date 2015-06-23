@@ -4,3 +4,5 @@
   roles:
     - common
     - users
+    # - postgresql 
+    # - django 
